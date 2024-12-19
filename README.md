@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Yury Batenko
 
-Software Engineer with more than 15 years of commercial experience. I have knowledge in backend development on <img src="https://elixir-lang.org/favicon.ico" width="16"> [RubyOnRails](https://rubyonrails.org/).
+Software Engineer with more than 15 years of commercial experience. I have knowledge in backend development on <img src="https://github.com/svenyurgensson/svenyurgensson/blob/main/ruby.png" width="16"> [RubyOnRails](https://rubyonrails.org/).
 
 My main area of ​​interest is building backend systems. More than anything else, I love understanding the architecture of a project, learning new things, and working with engineers who are much stronger than me.
 
