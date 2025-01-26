@@ -46,6 +46,7 @@ My main area of ​​interest is building backend systems. More than anything e
 ### 📓 My CVs
 *   [English version](https://github.com/svenyurgensson/svenyurgensson/blob/main/cvs/Yury%20Batenko%20CV.pdf)
 *   [Резюме на русском](https://github.com/svenyurgensson/svenyurgensson/blob/main/cvs/%D0%91%D0%B0%D1%82%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%AE%D1%80%D0%B8%D0%B9%20-%20backend%20engineer%20CV.pdf)
+*   [Linkedin](https://www.linkedin.com/in/ybatenko/)
 
 ### 🚧 Some of my opensource projects
 
