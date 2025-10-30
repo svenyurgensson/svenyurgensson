@@ -50,9 +50,9 @@ My main area of ​​interest is building backend systems. More than anything e
 
 ### 🚧 Some of my opensource projects
 
-*   [AdventOfCode](https://github.com/svenyurgensson/adventofcode) My AdventOfCode solutions
-*   [mdb_mediaserver](https://github.com/svenyurgensson/mdb_mediaserver) Simple GridFS mediaserver written in Go lang
+*   [AdventOfCode](https://github.com/svenyurgensson/adventofcode) My AdventOfCode solutions (go, odin)
+*   [mdb_mediaserver](https://github.com/svenyurgensson/mdb_mediaserver) Simple GridFS mediaserver Go lang (2016) 
 *   [zpec](https://github.com/svenyurgensson/zspec) Z80 code testing and verification utility (C++)
 *   [game_arcanoid](https://github.com/svenyurgensson/game_arcanoid) Arcanoid game for RP2040 (C++)
-*   [millfork](https://github.com/svenyurgensson/millfork) My fork of Millfork: a middle-level programming language targeting 6502- and Z80-based microcomputers and home consoles
+*   [millfork](https://github.com/svenyurgensson/millfork) My fork of Millfork: a middle-level programming language targeting 6502- and Z80-based microcomputers and home consoles (Scala)
 
